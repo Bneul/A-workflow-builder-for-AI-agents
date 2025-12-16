@@ -1,0 +1,5 @@
+{
+  "name": "Nexus - AI Agent Workflow Builder",
+  "description": "A visual, drag-and-drop interface for building, configuring, and testing AI agent workflows powered by Gemini. Connect triggers, AI processing nodes, and actions to create powerful automated agents.",
+  "requestFramePermissions": []
+}
